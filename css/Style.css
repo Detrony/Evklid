@@ -395,7 +395,7 @@ button {
 }
 
 .left__block {
-  background-image: url('/img/About-left_1920.jpg');
+  background-image: url('../img/About-left_1920.jpg');
   width: 49%;
   align-items: flex-end;
   margin-right: 32px;
@@ -544,19 +544,19 @@ button {
 }
 
 .tabs-img-1 {
-  background-image: url(/img/Hov-1.jpg);
+  background-image: url("../img/hov-1.jpg");
 }
 
 .tabs-img-2 {
-  background-image: url(/img/hov-2.png);
+  background-image: url("../img/hov-2.png");
 }
 
 .tabs-img-3 {
-  background-image: url(/img/hov-3.png);
+  background-image: url("../img/hov-3.png");
 }
 
 .tabs-img-4 {
-  background-image: url(/img/hov-4.png);
+  background-image: url("../img/hov-4.png");
 }
 
 .tabs-item--active {
