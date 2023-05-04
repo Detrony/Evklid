@@ -171,7 +171,7 @@
     width: 100%;
     padding-top: 53.3vh;
     margin-bottom: 32px;
-    background-image: url('/img/Abbout-left__mobile_1024.jpg');
+    background-image: url('../img/Abbout-left__mobile_1024.jpg');
   }
 
 
@@ -187,7 +187,7 @@
   /* how */
 
   .hov__block {
-    background-image: url('/img/Hov-1__mobile_1024.png');
+    background-image: url('../img/Hov-1__mobile_1024.png');
     background-repeat: no-repeat;
     background-position-x: 103%;
   }
@@ -333,7 +333,7 @@
 
   .left__block {
     padding-top: 68%;
-    background-image: url('/img/Abbout-left__mobile_768.png');
+    background-image: url('../img/Abbout-left__mobile_768.png');
   }
 
   .left__block__title {
@@ -382,7 +382,7 @@
   }
 
   .hov__block {
-    background-image: url(/img/Hov-1_768.jpg);
+    background-image: url("../img/Hov-1_768.jpg");
     background-position: 43% 0.4%;
     background-size: 100% 35.4%;
   }
@@ -632,7 +632,7 @@
   }
 
   .hov__block {
-    background-image: url(/img/Hov-1__mobile_320px.png);
+    background-image: url("../img/Hov-1__mobile_320px.png");
     background-size: 100% 16.2%;
     background-position-y: 1.7%;
   }
