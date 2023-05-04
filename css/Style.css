@@ -314,7 +314,7 @@ button {
 }
 
 .swiper__slide_img-1 {
-  background-image: url('/img/hero-1_1920.jpg');
+  background-image: url('../img/hero-1_1920.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
