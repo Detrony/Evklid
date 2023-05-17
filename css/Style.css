@@ -907,4 +907,8 @@ button {
   color: #CACACA;
 }
 
+.footer__right {
+ max-width: 26%;
+}
+
 
